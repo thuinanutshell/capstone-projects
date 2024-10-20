@@ -1,4 +1,5 @@
 # Capstone Projects
-## Research - Applications of Deep Learning in Natural Language Processing
+## Research
+**Topic: Deep Learning in Natural Language Processing (NLP) - A Comparative Analysis of Topic Modeling Models**
 ## Product
 ## Creative
