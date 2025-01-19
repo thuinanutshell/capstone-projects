@@ -1,1 +1,1 @@
-# Fine-tuning Pre-trained LLMs for Low-Resourced Languages
+# Finetuning Pre-trained LLMs for Low-Resourced Languages
